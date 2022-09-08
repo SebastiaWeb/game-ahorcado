@@ -1,0 +1,55 @@
+body{
+    background-color: #121212;
+    padding: 5%;
+    height: 80vh;
+    color: white;
+}
+
+.main-ahorcado{
+    width: 65%;
+    
+}
+#img{
+    width: 30%;
+}
+#imgError{
+    width: 100%;
+}
+
+#categoria{
+    width: 45%;
+}
+
+#categoria>h3{
+    display: block;
+
+    margin-bottom: 6%;
+
+    font-size: 35px;
+}
+
+#text_complete{
+    display: block;
+
+    margin-bottom: 8%;
+    font-size: 28px;
+}
+
+#categoria>div{
+    display: block;
+    margin-top: 5%;
+}
+
+#categoria>input{
+    margin-top: 5%;
+    width: 20%;
+}
+#categoria>button{
+    margin-top: 5%;
+    width: 40%;
+    background-color: #838383;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
